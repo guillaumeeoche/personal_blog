@@ -1,6 +1,6 @@
 #venv
-/venv
+venv/
 
 #settings
-/personal_blog/personnal_blog/settings.py
+personal_blog/personnal_blog/settings.py/
 
